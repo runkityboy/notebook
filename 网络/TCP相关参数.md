@@ -1,0 +1,12 @@
+- SO_BACKLOG  
+  服务端完成TCP三次握手后还未accept的连接长度
+
+- SO_LINGER
+
+- SO_KEEPALIVE
+
+- SO_REUSEADDR
+
+- SO_TIMEOUT
+
+- TCP_NODELAY
